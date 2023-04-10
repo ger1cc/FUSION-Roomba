@@ -11,6 +11,7 @@ Each team will begin with their robot in a square 5 by 5 feet field with small p
 ## To-Do
 - Define Map Class, 3 Sensor Class
 - Implement ON/OFF Switch
+- Navigate around obstacles
 
 ## How to use / Tutorial (Software)
 
